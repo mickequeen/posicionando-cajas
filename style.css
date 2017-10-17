@@ -1,0 +1,47 @@
+.big{
+	height: 250px;
+	width: 250px;
+	position: static;
+	display: block;
+}
+
+.red{
+	background-color: #FF0000;
+}
+
+.blue{
+	background-color: #0000FF
+}
+
+.medium{
+	height: 125px;
+	width: 125px;
+	position: relative;
+	top: 62.5px;
+	left: 62.5px;
+}
+
+.purple{
+	background-color: purple;
+}
+
+.green{
+	background-color: green;
+}
+
+.little{
+ 	height: 62.5px;
+ 	width: 62.5px;
+ 	position: relative;
+ }
+
+.yellow{
+	background-color: yellow;
+	bottom:62.5px;
+	left: 62.5px;
+}
+
+.black{
+	background-color: black;
+	bottom:125px;
+}
